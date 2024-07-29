@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.vidial.vidialandroidapp",
+    "sha256_cert_fingerprints":
+    ["6F:E3:21:EC:3E:A4:09:ED:D8:66:3E:1B:1B:B1:CC:37:25:CF:70:14:32:0B:98:23:03:12:74:67:10:30:8C:46"]
+  }
+}]
